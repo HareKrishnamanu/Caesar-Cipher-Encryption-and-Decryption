@@ -35,10 +35,6 @@ You can run this project in any Python environment or online compiler. Simply co
 
 Feel free to fork this repository and contribute by submitting a pull request. Suggestions for improvements are also welcome.
 
-## License
-
-This project is open-source and available under the MIT License.
-
 ## Author
 
 **Manoj Raju Pericherla**
